@@ -1,0 +1,23 @@
+{
+  "name": "apisecurityengine-agent",
+  "version": "1.0.1",
+  "description": "Node JS Agent for APISecurityEngine's agent based analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spartancyberultron/apisecurityengine-node-agent.git"
+  },
+  "keywords": [
+    "api",
+    "security"
+  ],
+  "author": "CyberUltron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spartancyberultron/apisecurityengine-node-agent/issues"
+  },
+  "homepage": "https://github.com/spartancyberultron/apisecurityengine-node-agent#readme"
+}
